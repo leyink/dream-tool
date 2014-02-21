@@ -12,6 +12,10 @@ Create elements in the app (basically, something fairly robust, like Sketch)
 
 Drag and drop animations onto elements
 
+Annotations
+
+Ability to export assets (code, graphics, movies etc)
+
 Set of core animations
 
 Ability for users to create and share new animations
