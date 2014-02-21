@@ -1,4 +1,4 @@
-dream-tool
+Dream Tool
 ==========
 
 A tool for contemporary interaction design
