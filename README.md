@@ -5,8 +5,13 @@ A tool for contemporary interaction design. How is it in 2014 that we are still 
 
 We should be able to draw and animate in the same place. Dream tool!
 
-Features
+Goals
+========
+A tool that encourages strategic thinking and allows designers to communicate and integrate into an organization's process.
+
+Features 
 =========
+(cluster/prioritize this section?)
 
 Create elements in the app (basically, something fairly robust, like Sketch)
 
@@ -29,3 +34,13 @@ Tap targets and animations work on mobile mirroring apps
 Artboard names are target names
 
 Export as movie, or ability to mirror and use in real-time on devices
+
+Integration Points
+====================
+Project Management: estimation and progress tracking, relative to corporate metrics/KPIs
+Development: annotated wireframes, asset generation
+User Testing: live prototypes
+
+Success Metrics
+================
+something that gets people to use it organically
