@@ -16,7 +16,7 @@ Annotations
 
 Ability to export assets (code, graphics, movies etc)
 
-Set of core animations
+Set of core animations for common / current interaction design patterns
 
 Ability for users to create and share new animations
 
