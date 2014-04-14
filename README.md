@@ -18,7 +18,7 @@ Ability to export assets (code, graphics, movies etc)
 
 Set of core animations for common / current interaction design patterns
 
-Ability to add custom screen sizes for things that are not standard. Should already come with current iOS/Andriod etc screen sizes. These could be managed server-side on a backend when things are no longer valid (?).
+Ability to add custom screen sizes for things that are not standard. Should already come with current iOS/Android etc screen sizes. These could be managed server-side on a backend when things are no longer valid (?).
 
 Ability for users to create and share new animations
 
