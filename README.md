@@ -1,9 +1,9 @@
 Dream Tool
 ==========
 
-A tool for contemporary interaction design. How is it in 2014 that we are still using print design and presentation software to do software and interaction design? THIS IS CRAY.
+A tool for contemporary interaction design. How is it in 2014 that we are still using print design and presentation software to do software and interaction design? 
 
-We should be able to draw and animate in the same place. Dream tool!
+We should be able to draw and animate in the same place.
 
 Goals
 ========
